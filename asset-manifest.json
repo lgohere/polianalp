@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/polianalp/static/css/main.8fbe8cd9.css",
-    "main.js": "/polianalp/static/js/main.b0898bda.js",
-    "static/js/453.328b005a.chunk.js": "/polianalp/static/js/453.328b005a.chunk.js",
-    "static/media/slick.svg": "/polianalp/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/polianalp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/polianalp/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/polianalp/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/polianalp/index.html",
-    "main.8fbe8cd9.css.map": "/polianalp/static/css/main.8fbe8cd9.css.map",
-    "main.b0898bda.js.map": "/polianalp/static/js/main.b0898bda.js.map",
-    "453.328b005a.chunk.js.map": "/polianalp/static/js/453.328b005a.chunk.js.map"
+    "main.css": "/static/css/main.ec4751af.css",
+    "main.js": "/static/js/main.fbec5c55.js",
+    "static/js/453.328b005a.chunk.js": "/static/js/453.328b005a.chunk.js",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.ec4751af.css.map": "/static/css/main.ec4751af.css.map",
+    "main.fbec5c55.js.map": "/static/js/main.fbec5c55.js.map",
+    "453.328b005a.chunk.js.map": "/static/js/453.328b005a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8fbe8cd9.css",
-    "static/js/main.b0898bda.js"
+    "static/css/main.ec4751af.css",
+    "static/js/main.fbec5c55.js"
   ]
 }
